@@ -1,6 +1,9 @@
-class Integer
+#!/usr/bin/env ruby
+  require('pry')
 
 
-def ping_pong()
-  # some stuff
+
+def ping_pong(number)
+  array = []
+  x = 0
 end
